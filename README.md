@@ -1,4 +1,4 @@
-Sales Insights Data Analysis Project
+**Sales Insights Data Analysis Project**
 
 SQL database dump is in db_dump.sql file above. 
 
